@@ -97,14 +97,17 @@ button {
   background-color: #000;
 }
 
+img {
+
+}
+
 #me {
-  width: 60%;
+  width: 62%;
   float: left;
   padding-left: 4px;
   padding-right: 4px;
   padding-top: 12px;
   padding-bottom: 4px;
-
 }
 
 #contact > li {
@@ -142,4 +145,18 @@ button {
 
 #background {
   font-size: 40px;
+}
+
+#contact {
+  background-image: url(https://s-media-cache-ak0.pinimg.com/originals/69/1a/40/691a40dd4c864a2ff3e089ba285f89a3.jpg);
+  border-style: groove;
+  border-radius: 6px;
+  border-color: #000;
+}
+
+#contact-p {
+  text-align: center;
+  font-size: 60px;
+  font-weight: bold;
+  font-family: monospace;
 }
