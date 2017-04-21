@@ -4,13 +4,13 @@
   font-weight: bolder;
   font-family: fantasy;
   background-image: url(https://c1.staticflickr.com/6/5064/5751846075_198920ba0f_b.jpg);
+  border-style: groove;
+  border-color: #000;
 }
-
 
 .title {
   color: #666600
   }
-
 
 .col-md-12 {
   text-align: center;
@@ -18,6 +18,16 @@
 
 .col-md-6 {
   background-image: url(https://s-media-cache-ak0.pinimg.com/originals/69/1a/40/691a40dd4c864a2ff3e089ba285f89a3.jpg);
+  border-style: groove;
+  border-radius: 6px;
+  border-color: #000
+}
+
+.col-md-4 {
+  background-image: url(https://s-media-cache-ak0.pinimg.com/originals/69/1a/40/691a40dd4c864a2ff3e089ba285f89a3.jpg);
+  border-style: groove;
+  border-radius: 6px;
+  border-color: #000;
 }
 
 body {
@@ -37,6 +47,14 @@ ul > li {
 p {
   font-family: monospace;
   font-weight: bold;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  text-shadow: 4px 4px 6px #333300;
+  font-weight: bolder;
+  font-family: fantasy;
 }
 
 #me {
@@ -46,6 +64,7 @@ p {
   padding-right: 4px;
   padding-top: 12px;
   padding-bottom: 4px;
+
 }
 
 #contact > li {
@@ -55,6 +74,7 @@ p {
   text-shadow: 2px 2px 4px #000;
   font-weight: bold;
   font-family: fantasy;
+  text-decoration: underline;
 }
 
 #about {
