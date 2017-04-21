@@ -1,0 +1,12 @@
+.jumbotron {
+  text-align: center;
+  text-shadow: 4px 4px 6px #333300;
+  font-weight: bolder;
+  font-family: fantasy;
+  background-image: url(https://c1.staticflickr.com/6/5064/5751846075_198920ba0f_b.jpg);
+}
+
+
+.title {
+  color: #666600
+  }
