@@ -16,8 +16,36 @@
   text-align: center;
 }
 
+.col-md-6 {
+  background-image: url(https://s-media-cache-ak0.pinimg.com/originals/69/1a/40/691a40dd4c864a2ff3e089ba285f89a3.jpg);
+}
+
+body {
+  background-image: url(https://images3.alphacoders.com/152/152779.jpg);
+}
+
 a {
   color: #666600
+}
+
+ul > li {
+  text-align: center;
+  font-weight: bold;
+  font-family: monospace;
+}
+
+p {
+  font-family: monospace;
+  font-weight: bold;
+}
+
+#me {
+  width: 60%;
+  float: left;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 12px;
+  padding-bottom: 4px;
 }
 
 #contact > li {
@@ -27,4 +55,14 @@ a {
   text-shadow: 2px 2px 4px #000;
   font-weight: bold;
   font-family: fantasy;
+}
+
+#about {
+  padding-right: 6px;
+  padding-left: 6px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  text-align: center;
+  font-weight: bold;
+  font-family: monospace;
 }
