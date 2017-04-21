@@ -5,58 +5,44 @@
 
 ## User Story
 
-*
-*
-*
-*
+* I want this to act as a Portfolio page for my Github and as a way for people to get in contact with me!
+
 
 ## Implementation Plan
 
 | Objective | Implementation | Status |
 |:-------------:|:-------------:|:-------------:|
-| Create a new project | add all the proper files for this project | xxx |
-| Create html skeleton | xxx | xxx |
-| Add styling with personal style sheet | xxx | xxx |
-| xxx | xxx | xxx |
-| xxx | xxx | xxx |
-| xxx | xxx | xxx |
+| Create a new project | add all the proper files for this project | Complete |
+| Add Header, Background, and miner text styling! | Jumbotron | Complete |
+| Add Contact list and Personal links | Columns and <a> tags | Complete |
+| Add 'about me' section | Row and Column | Complete |
+| Add Github Links to the page | Row, Column, <a>| Complete |
+| Add Buttons to Github links | Button classes | Complete |
+| Add background Section | CSS | Complete |
+| Add Contact Page | New Html folder and CSS | Complete |
 
 ## Setup/Installation Requirements
 
-  *
-  *
-  *
-  *
-  *
-  *
-  *
+  * No Installation Required, Just simply Open the index file in your browser
+
 
 ##  Configuration/dependencies
 
-  *
-  *
-  *
-  *
-  *
-  *
-  *
-  *
+  * N/A
+
 
 ## Bugs
 There are no known bugs at this time, but please contact the creator with questions or concerns regarding this application.
 
-## Technologies
 
 ## Technologies Used
 
-  *
-  *
-  *
-  *
-  *
-  *
-  *
-  *
+  * HTML
+  * CSS
+  * Bootstrap
+  * Atom
+  * Git
+
 
 ## Licensing
 This application features MIT licensing.
