@@ -13,12 +13,12 @@
 | Objective | Implementation | Status |
 |:-------------:|:-------------:|:-------------:|
 | Create a new project | add all the proper files for this project | Complete |
-| Add Header, Background, and miner text styling! | Jumbotron | Complete |
-| Add Contact list and Personal links | Columns and <a> tags | Complete |
-| Add 'about me' section | Row and Column | Complete |
-| Add Github Links to the page | Row, Column, <a>| Complete |
-| Add Buttons to Github links | Button classes | Complete |
-| Add background Section | CSS | Complete |
+| Add Header, Background, and miner text styling! | Jumbotron and CSS | Complete |
+| Add Contact list and Personal links | Columns, CSS and <a> tags | Complete |
+| Add 'about me' section | Row, Column and CSS | Complete |
+| Add Github Links to the page | Row, Column, <a>, CSS| Complete |
+| Add Buttons to Github links | Button classes and CSS | Complete |
+| Add background Section | HTML and CSS | Complete |
 | Add Contact Page | New Html folder and CSS | Complete |
 
 ## Setup/Installation Requirements
